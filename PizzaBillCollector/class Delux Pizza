@@ -1,7 +1,0 @@
-public class DeluxPizza extends Pizza{
-   DeluxPizza(boolean isVeg){
-    super(isVeg);
-    addExtraCheese();
-    addToppings();
-   }
-}
